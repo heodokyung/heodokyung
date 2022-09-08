@@ -1,4 +1,8 @@
 ### Hi there 👋
+반갑습니다. 
+저는 리액트(React)와 뷰(Vue)를 좋아하고 스벨트(Svelte)에 관심이 있습니다.
+Go와 파이썬(Python)에도 흥미가 있어서 조만간 공부를 시작할 예정입니다.
+늘 부족하고 모르는 부분은 배우고 오늘보다 조금 더 성장할 수 있도록 노력하겠습니다.
 
 <!--
 **heodokyung/heodokyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
