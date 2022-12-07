@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/gitlab-E34F26?style=flat-square&logo=gitlab&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Gitlab-E34F26?style=flat-square&logo=Gitlab&logoColor=white"/>&nbsp
 </p>
