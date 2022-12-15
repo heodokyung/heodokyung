@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </a>
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 -->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HeoDoKyung!&fontSize=60)
+<!-- ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HeoDoKyung!&fontSize=60) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heodokyung&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heodokyung)](https://github.com/heodokyung/github-readme-stats)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
