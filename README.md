@@ -3,10 +3,10 @@
 
 반갑습니다. 
 저는 프론트엔드에 관심이 많은 UI개발자 입니다.   
-웹표준과 웹접근성을 준수하고 저의 코딩컨벤션을 만들어서 마크업을 구현합니다.  
-코드의 재사용과 범용적인 코드를 작성하려고 노력하며 프론트에 관심이 많습니다.
+웹표준과 웹접근성을 준수하고 저의 코딩 컨벤션을 만들어서 사용하며
+CSS방법론을 적용하여 동일한 산출물의 결과물이 구현될 수 있도록 작업을 하고 있습니다.
 
-리액트(React)와 뷰(Vue)를 좋아하고 부족하고 모르는 부분은 노력하고 배우면서 성장하겠습니다.  
+모르는 부분은 노력하고 배우면서 성장하겠습니다.
 감사합니다. 
 
 <p dir="auto"><animated-image data-catalyst=""><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="nightCoding" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
