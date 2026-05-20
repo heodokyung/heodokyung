@@ -6,10 +6,10 @@
 
 <p>
   <a href="mailto:gjehrud@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gjehrud%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-gjehrud%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/heodokyung">
-    <img src="https://img.shields.io/badge/GitHub-heodokyung-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-heodokyung-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@ CSS 구조와 컴포넌트 설계를 꾸준히 개선하는 사람
     </td>
     <td width="50%">
       <h3>♿ Accessibility</h3>
-      <p>시맨틱 마크업, 명확한 상태 표현, 키보드 접근성을 중요하게 봅니다.</p>
+      <p>시맨틱 마크업, 명확한 상태 표현, 키보드 접근성, 상태 변화를 중요하게 봅니다.</p>
     </td>
   </tr>
   <tr>
@@ -78,32 +78,32 @@ CSS 구조와 컴포넌트 설계를 꾸준히 개선하는 사람
 ### Markup & Styling
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Accessibility-005A9C?style=flat-square&logo=w3c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Web-256F8F?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Web%20Accessibility-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="Web Accessibility" />
+  <img src="https://img.shields.io/badge/Responsive%20Web-256F8F?style=flat-square&logo=googlechrome&logoColor=white" alt="Responsive Web" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -142,12 +142,14 @@ Frontend Performance
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heodokyung&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heodokyung&layout=compact&theme=vue-dark&hide_border=true" height="165" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/heodokyung/heodokyung/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile summary" />
+
+<img src="https://raw.githubusercontent.com/heodokyung/heodokyung/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" height="180" />
+<img src="https://raw.githubusercontent.com/heodokyung/heodokyung/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" height="180" />
 
 </div>
 
@@ -157,12 +159,13 @@ Frontend Performance
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nice7677/nice7677/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/heodokyung/heodokyung/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
-
-> ⚠️ 위 contribution snake는 별도 GitHub Actions 설정이 되어 있어야 정상적으로 표시됩니다.  
-> 설정 전이라면 이 섹션은 잠시 주석 처리하거나 삭제해도 괜찮습니다.
 
 ---
 
@@ -176,20 +179,9 @@ Frontend Performance
 </div>
 
 <!--
-수정 체크리스트
-
-1. GitHub 사용자명이 heodokyung이 맞는지 확인하세요.
-   - 다르면 username=heodokyung, github.com/heodokyung 부분을 변경하세요.
-
-2. 포트폴리오 사이트가 생기면 상단 버튼에 추가하세요.
-
-예시:
-<a href="https://your-portfolio-url.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-3. contribution snake를 실제 내 계정 기준으로 쓰려면 GitHub Actions 설정이 필요합니다.
-   지금처럼 다른 계정의 svg를 그대로 쓰면 내 활동이 아니라 다른 사람의 애니메이션이 노출될 수 있습니다.
-
-4. GitHub stats 카드가 보이지 않으면 username 값이 실제 GitHub 아이디와 일치하는지 먼저 확인하세요.
+주의:
+1. GitHub Summary 이미지는 .github/workflows/generate-profile-summary.yml 실행 후 표시됩니다.
+2. Contribution Snake 이미지는 .github/workflows/generate-snake.yml 실행 후 output 브랜치가 생성되면 표시됩니다.
+3. Night-Coding.gif는 직접 GIF를 img로 연결했으므로 자동 재생이 기본입니다.
+   단, GitHub 또는 브라우저의 접근성 설정에서 애니메이션 자동 재생이 꺼져 있으면 사용자가 직접 재생해야 할 수 있습니다.
 -->
