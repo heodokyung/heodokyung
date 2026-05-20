@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:256F8F,50:2F80ED,100:4FC08D&height=230&section=header&text=Heo%20Do%20Kyung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=UI%20Developer%20%7C%20Frontend%20Engineer%20%7C%20Web%20Accessibility&descSize=17&descAlignY=57)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:256F8F,50:2F80ED,100:4FC08D&height=230&section=header&text=Heo%20Do%20Kyung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=UI%20Developer%20%7C%20Frontend%20Engineer&descSize=18&descAlignY=57)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&pause=1200&color=256F8F&center=true&vCenter=true&width=820&lines=사용자에게+편안한+화면을+만드는+UI+개발자;웹표준과+접근성을+기본으로+생각합니다;유지보수하기+좋은+프론트엔드+구조를+고민합니다)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&pause=1200&color=256F8F&center=true&vCenter=true&width=820&lines=화면을+조금+더+쉽고+편하게+만들고+싶습니다.;기본을+지키는+UI+개발자가+되고+싶습니다.;오늘보다+조금+더+나은+코드를+고민합니다.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:gjehrud@gmail.com">
@@ -17,63 +17,77 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" />
-
-## 👋 안녕하세요, UI 개발자 허도경입니다.
-
-저는 **사용자가 편하게 사용할 수 있는 화면**과  
-**개발자가 오래 유지보수할 수 있는 코드** 사이의 균형을 고민하는 프론트엔드/UI 개발자입니다.
-
-웹표준과 웹접근성을 기본으로 삼고,  
-반복 가능한 코딩 컨벤션과 CSS 구조를 만들어  
-누가 작업하더라도 일정한 품질의 결과물이 나올 수 있는 개발 방식을 지향합니다.
-
-작은 여백, 버튼의 상태, 반응형 흐름, 키보드 접근성처럼  
-사용자가 직접 말하지 않아도 느끼는 디테일을 중요하게 생각합니다.
-
-<br clear="right" />
-
----
-
-## 🧭 About Me
-
-```txt
-사용자 경험을 먼저 생각하는 UI 개발자
-웹표준과 접근성을 지키려는 프론트엔드 개발자
-CSS 구조와 컴포넌트 설계를 꾸준히 개선하는 사람
-모르는 것을 배우고, 배운 것을 기록하며 성장하는 개발자
-```
-
----
-
-## 💡 What I Care About
-
 <table>
   <tr>
-    <td width="50%">
-      <h3>🎯 User Experience</h3>
-      <p>화려한 화면보다 사용자가 헷갈리지 않는 흐름을 먼저 생각합니다.</p>
+    <td valign="top" width="58%">
+
+## 안녕하세요. UI 개발자 허도경입니다.
+
+화면을 만들 때 가장 먼저 생각하는 건  
+**“이걸 사용하는 사람이 어렵지 않게 쓸 수 있을까?”** 입니다.
+
+프론트엔드와 UI 개발을 하면서  
+웹표준, 웹접근성, 반응형, CSS 구조 같은 기본기를 중요하게 생각하고 있습니다.
+
+아직 배워야 할 것도 많지만,  
+모르는 부분은 그냥 넘기지 않고 하나씩 확인하면서  
+조금씩 더 나은 개발자가 되려고 합니다.
+
+보기 좋은 화면도 중요하지만,  
+시간이 지나도 고치기 쉽고 함께 작업하기 좋은 코드가  
+결국 더 좋은 결과를 만든다고 믿습니다.
+
     </td>
-    <td width="50%">
-      <h3>♿ Accessibility</h3>
-      <p>시맨틱 마크업, 명확한 상태 표현, 키보드 접근성, 상태 변화를 중요하게 봅니다.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧩 Component Design</h3>
-      <p>재사용 가능한 컴포넌트와 일관된 UI 시스템을 지향합니다.</p>
-    </td>
-    <td width="50%">
-      <h3>🛠 Maintainable Code</h3>
-      <p>한 번 만들고 끝나는 코드보다, 시간이 지나도 고치기 쉬운 구조를 고민합니다.</p>
+    <td valign="top" width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="100%" alt="Night Coding" />
+
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠 Tech Stack
+## 제가 중요하게 생각하는 것
+
+```txt
+사용자가 헷갈리지 않는 화면
+기본을 지키는 마크업과 접근성
+반복해서 쓰기 좋은 컴포넌트
+일관성 있는 CSS 구조
+시간이 지나도 고치기 쉬운 코드
+```
+
+---
+
+## 이런 개발을 좋아합니다
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎯 사용하기 쉬운 화면</h3>
+      <p>화려한 효과보다, 사용자가 자연스럽게 이해할 수 있는 흐름을 더 중요하게 생각합니다.</p>
+    </td>
+    <td width="50%">
+      <h3>♿ 기본을 지키는 개발</h3>
+      <p>시맨틱 마크업, 키보드 접근성, 명확한 상태 표현처럼 작은 기본기를 놓치지 않으려고 합니다.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧩 다시 쓰기 좋은 구조</h3>
+      <p>비슷한 코드를 반복하기보다, 컴포넌트와 스타일을 정리해서 다시 쓰기 좋은 구조를 고민합니다.</p>
+    </td>
+    <td width="50%">
+      <h3>🛠 오래 가는 코드</h3>
+      <p>당장 동작하는 코드에서 멈추지 않고, 나중에 봐도 이해할 수 있는 코드를 만들고 싶습니다.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 ### Markup & Styling
 
@@ -108,7 +122,7 @@ CSS 구조와 컴포넌트 설계를 꾸준히 개선하는 사람
 
 ---
 
-## 🚀 Currently Focusing On
+## 요즘 관심 있는 것들
 
 ```txt
 Vue 3
@@ -121,32 +135,22 @@ PWA
 Frontend Performance
 ```
 
-요즘은 단순히 화면을 구현하는 것을 넘어,  
-**서비스가 커져도 무너지지 않는 프론트엔드 구조**와  
-**사용자의 일상에 자연스럽게 스며드는 인터페이스**에 관심을 두고 있습니다.
+요즘은 단순히 화면을 구현하는 것보다  
+서비스가 커져도 정리된 상태를 유지할 수 있는 구조에 더 관심이 많습니다.
+
+컴포넌트를 어떻게 나누면 좋을지,  
+CSS는 어디까지 공통화하는 게 좋을지,  
+접근성과 반응형은 어떤 기준으로 챙겨야 하는지 계속 고민하고 있습니다.
 
 ---
 
-## 📌 Portfolio Direction
-
-제 포트폴리오는 단순한 결과물 모음이 아니라,  
-**문제를 어떻게 발견했고, 어떤 기준으로 해결했는지 보여주는 공간**이 되기를 바랍니다.
-
-앞으로는 이런 내용을 더 선명하게 담아가고 싶습니다.
-
-- 어떤 UX 문제를 발견했는지
-- 어떤 기준으로 UI 구조를 설계했는지
-- 컴포넌트와 CSS를 어떻게 나누었는지
-- 접근성과 반응형을 어떻게 고려했는지
-- 개선 전후의 차이를 어떻게 설명할 수 있는지
-
----
-
-## 📊 GitHub Summary
+## GitHub Summary
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/heodokyung/heodokyung/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile summary" />
+
+<br />
 
 <img src="https://raw.githubusercontent.com/heodokyung/heodokyung/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" height="180" />
 <img src="https://raw.githubusercontent.com/heodokyung/heodokyung/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" height="180" />
@@ -155,33 +159,44 @@ Frontend Performance
 
 ---
 
-## 🌿 Contribution
+## Contribution Game
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/heodokyung/heodokyung/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph.svg" width="92%" />
 </picture>
 
 </div>
+
+<!--
+다른 게임으로 바꾸고 싶다면 위 파일명에서 pacman을 아래 이름 중 하나로 바꾸면 됩니다.
+
+breakout-contribution-graph.svg
+galaga-contribution-graph.svg
+puzzle-bobble-contribution-graph.svg
+bomberman-contribution-graph.svg
+
+예:
+https://raw.githubusercontent.com/heodokyung/heodokyung/output/breakout-contribution-graph-dark.svg
+-->
 
 ---
 
 <div align="center">
 
 ### 천천히, 그러나 꾸준히.  
-### 좋은 화면과 좋은 코드를 함께 만들어가는 개발자가 되겠습니다.
+### 오늘보다 조금 더 나은 화면과 코드를 만들고 싶습니다.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,50:2F80ED,100:256F8F&height=140&section=footer)
 
 </div>
 
 <!--
-주의:
-1. GitHub Summary 이미지는 .github/workflows/generate-profile-summary.yml 실행 후 표시됩니다.
-2. Contribution Snake 이미지는 .github/workflows/generate-snake.yml 실행 후 output 브랜치가 생성되면 표시됩니다.
-3. Night-Coding.gif는 직접 GIF를 img로 연결했으므로 자동 재생이 기본입니다.
-   단, GitHub 또는 브라우저의 접근성 설정에서 애니메이션 자동 재생이 꺼져 있으면 사용자가 직접 재생해야 할 수 있습니다.
+메모
+1. GIF 자동재생은 GitHub/브라우저/접근성 설정에 따라 달라질 수 있습니다.
+2. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
+3. Pac-Man 외에도 breakout, galaga, puzzle-bobble, bomberman SVG를 함께 생성하도록 설정했습니다.
 -->
