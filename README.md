@@ -50,13 +50,19 @@
 
 ## 제가 중요하게 생각하는 것
 
-```txt
-사용자가 헷갈리지 않는 화면
-기본을 지키는 마크업과 접근성
-반복해서 쓰기 좋은 컴포넌트
-일관성 있는 CSS 구조
-시간이 지나도 고치기 쉬운 코드
-```
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>사용자가 헷갈리지 않는 화면</li>
+        <li>기본을 지키는 마크업과 접근성</li>
+        <li>반복해서 쓰기 좋은 컴포넌트</li>
+        <li>일관성 있는 CSS 구조</li>
+        <li>시간이 지나도 고치기 쉬운 코드</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -124,16 +130,26 @@
 
 ## 요즘 관심 있는 것들
 
-```txt
-Vue 3
-TypeScript
-UI Architecture
-Component Refactoring
-Design System
-Web Accessibility
-PWA
-Frontend Performance
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Vue 3</li>
+        <li>TypeScript</li>
+        <li>UI Architecture</li>
+        <li>Component Refactoring</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Design System</li>
+        <li>Web Accessibility</li>
+        <li>PWA</li>
+        <li>Frontend Performance</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 요즘은 단순히 화면을 구현하는 것보다  
 서비스가 커져도 정리된 상태를 유지할 수 있는 구조에 더 관심이 많습니다.
@@ -173,10 +189,16 @@ CSS는 어디까지 공통화하는 게 좋을지,
 
 ---
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>천천히, 그러나 꾸준히.</h3>
+      <p><strong>오늘보다 조금 더 나은 화면과 코드를 만들고 싶습니다.</strong></p>
+    </td>
+  </tr>
+</table>
 
-### 천천히, 그러나 꾸준히.  
-### 오늘보다 조금 더 나은 화면과 코드를 만들고 싶습니다.
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,50:2F80ED,100:256F8F&height=140&section=footer)
 
@@ -184,7 +206,7 @@ CSS는 어디까지 공통화하는 게 좋을지,
 
 <!--
 메모
-1. 좌우 split 영역은 GitHub에서 td 코드가 노출되지 않도록 내부를 HTML 태그로만 구성했습니다.
-2. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
-3. GIF 자동재생은 GitHub/브라우저/접근성 설정에 따라 달라질 수 있습니다.
+1. 코드블록은 GitHub에서 복사 버튼이 붙기 때문에, 관심사/가치 목록은 table + ul 리스트로 변경했습니다.
+2. 하단 문구도 배경이 있는 카드형 table로 정리했습니다.
+3. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
 -->
