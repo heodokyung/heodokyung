@@ -19,29 +19,29 @@
 
 <table>
   <tr>
-    <td valign="top" width="58%">
-
-## 안녕하세요. UI 개발자 허도경입니다.
-
-화면을 만들 때 가장 먼저 생각하는 건  
-**“이걸 사용하는 사람이 어렵지 않게 쓸 수 있을까?”** 입니다.
-
-프론트엔드와 UI 개발을 하면서  
-웹표준, 웹접근성, 반응형, CSS 구조 같은 기본기를 중요하게 생각하고 있습니다.
-
-아직 배워야 할 것도 많지만,  
-모르는 부분은 그냥 넘기지 않고 하나씩 확인하면서  
-조금씩 더 나은 개발자가 되려고 합니다.
-
-보기 좋은 화면도 중요하지만,  
-시간이 지나도 고치기 쉽고 함께 작업하기 좋은 코드가  
-결국 더 좋은 결과를 만든다고 믿습니다.
-
+    <td width="58%" valign="top">
+      <h2>안녕하세요. UI 개발자 허도경입니다.</h2>
+      <p>
+        화면을 만들 때 가장 먼저 생각하는 건<br />
+        <strong>“이걸 사용하는 사람이 어렵지 않게 쓸 수 있을까?”</strong> 입니다.
+      </p>
+      <p>
+        프론트엔드와 UI 개발을 하면서<br />
+        웹표준, 웹접근성, 반응형, CSS 구조 같은 기본기를 중요하게 생각하고 있습니다.
+      </p>
+      <p>
+        아직 배워야 할 것도 많지만,<br />
+        모르는 부분은 그냥 넘기지 않고 하나씩 확인하면서<br />
+        조금씩 더 나은 개발자가 되려고 합니다.
+      </p>
+      <p>
+        보기 좋은 화면도 중요하지만,<br />
+        시간이 지나도 고치기 쉽고 함께 작업하기 좋은 코드가<br />
+        결국 더 좋은 결과를 만든다고 믿습니다.
+      </p>
     </td>
-    <td valign="top" width="42%" align="center">
-
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="100%" alt="Night Coding" />
-
+    <td width="42%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="100%" alt="Night Coding" />
     </td>
   </tr>
 </table>
@@ -64,21 +64,21 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎯 사용하기 쉬운 화면</h3>
       <p>화려한 효과보다, 사용자가 자연스럽게 이해할 수 있는 흐름을 더 중요하게 생각합니다.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>♿ 기본을 지키는 개발</h3>
       <p>시맨틱 마크업, 키보드 접근성, 명확한 상태 표현처럼 작은 기본기를 놓치지 않으려고 합니다.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🧩 다시 쓰기 좋은 구조</h3>
       <p>비슷한 코드를 반복하기보다, 컴포넌트와 스타일을 정리해서 다시 쓰기 좋은 구조를 고민합니다.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🛠 오래 가는 코드</h3>
       <p>당장 동작하는 코드에서 멈추지 않고, 나중에 봐도 이해할 수 있는 코드를 만들고 싶습니다.</p>
     </td>
@@ -166,22 +166,10 @@ CSS는 어디까지 공통화하는 게 좋을지,
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph.svg" width="92%" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/heodokyung/heodokyung/output/pacman-contribution-graph.svg" width="88%" />
 </picture>
 
 </div>
-
-<!--
-다른 게임으로 바꾸고 싶다면 위 파일명에서 pacman을 아래 이름 중 하나로 바꾸면 됩니다.
-
-breakout-contribution-graph.svg
-galaga-contribution-graph.svg
-puzzle-bobble-contribution-graph.svg
-bomberman-contribution-graph.svg
-
-예:
-https://raw.githubusercontent.com/heodokyung/heodokyung/output/breakout-contribution-graph-dark.svg
--->
 
 ---
 
@@ -196,7 +184,7 @@ https://raw.githubusercontent.com/heodokyung/heodokyung/output/breakout-contribu
 
 <!--
 메모
-1. GIF 자동재생은 GitHub/브라우저/접근성 설정에 따라 달라질 수 있습니다.
+1. 좌우 split 영역은 GitHub에서 td 코드가 노출되지 않도록 내부를 HTML 태그로만 구성했습니다.
 2. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
-3. Pac-Man 외에도 breakout, galaga, puzzle-bobble, bomberman SVG를 함께 생성하도록 설정했습니다.
+3. GIF 자동재생은 GitHub/브라우저/접근성 설정에 따라 달라질 수 있습니다.
 -->
