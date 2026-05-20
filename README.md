@@ -17,7 +17,7 @@
 
 ---
 
-<table width="100%">
+<table width="100%" style="display: table;">
   <tr>
     <td width="58%" valign="top">
       <h2>안녕하세요. UI 개발자 허도경입니다.</h2>
@@ -50,7 +50,7 @@
 
 ## 제가 중요하게 생각하는 것
 
-<table width="100%">
+<table width="100%" style="display: table;">
   <tr>
     <td width="50%" valign="top">
       <ul>
@@ -146,7 +146,7 @@
 
 ## 요즘 관심 있는 것들
 
-<table width="100%">
+<table width="100%" style="display: table;">
   <tr>
     <td width="50%" valign="top">
       <ul>
@@ -210,10 +210,3 @@ CSS는 어디까지 공통화하는 게 좋을지,
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:256F8F,50:2F80ED,100:4FC08D&height=190&section=footer&text=%EC%B2%9C%EC%B2%9C%ED%9E%88%2C%20%EA%B7%B8%EB%9F%AC%EB%82%98%20%EA%BE%B8%EC%A4%80%ED%9E%88.&fontSize=28&fontColor=ffffff&fontAlignY=58&desc=%EC%98%A4%EB%8A%98%EB%B3%B4%EB%8B%A4%20%EC%A1%B0%EA%B8%88%20%EB%8D%94%20%EB%82%98%EC%9D%80%20%ED%99%94%EB%A9%B4%EA%B3%BC%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4.&descSize=16&descAlignY=75)
 
 </div>
-
-<!--
-메모
-1. table이 내용 너비만큼 줄어들지 않도록 주요 table에 width="100%"를 적용했습니다.
-2. TanStack Query는 제거했습니다. 실제로 설명 가능한 기술만 남기는 방향이 좋습니다.
-3. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
--->
