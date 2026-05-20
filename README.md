@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:256F8F,50:2F80ED,100:4FC08D&height=230&section=header&text=Heo%20Do%20Kyung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=UI%20Developer%20%7C%20Frontend%20Engineer&descSize=18&descAlignY=57)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&pause=1200&color=256F8F&center=true&vCenter=true&width=820&lines=화면을+조금+더+쉽고+편하게+만들고+싶습니다.;기본을+지키는+UI+개발자가+되고+싶습니다.;오늘보다+조금+더+나은+코드를+고민합니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&pause=1200&color=256F8F&center=true&vCenter=true&width=820&lines=언제나+UI를+더+쉽게+구현하도록+노력하고+있습니다.;기본을+지키는+UI+개발자가+되고+싶습니다.;오늘보다+조금+더+나은+코드를+고민합니다.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:gjehrud@gmail.com">
@@ -52,13 +52,18 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <ul>
         <li>사용자가 헷갈리지 않는 화면</li>
         <li>기본을 지키는 마크업과 접근성</li>
         <li>반복해서 쓰기 좋은 컴포넌트</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
         <li>일관성 있는 CSS 구조</li>
         <li>시간이 지나도 고치기 쉬운 코드</li>
+        <li>함께 작업하기 좋은 개발 방식</li>
       </ul>
     </td>
   </tr>
@@ -189,24 +194,15 @@ CSS는 어디까지 공통화하는 게 좋을지,
 
 ---
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>천천히, 그러나 꾸준히.</h3>
-      <p><strong>오늘보다 조금 더 나은 화면과 코드를 만들고 싶습니다.</strong></p>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4FC08D,50:2F80ED,100:256F8F&height=140&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:256F8F,50:2F80ED,100:4FC08D&height=190&section=footer&text=%EC%B2%9C%EC%B2%9C%ED%9E%88%2C%20%EA%B7%B8%EB%9F%AC%EB%82%98%20%EA%BE%B8%EC%A4%80%ED%9E%88.&fontSize=28&fontColor=ffffff&fontAlignY=58&desc=%EC%98%A4%EB%8A%98%EB%B3%B4%EB%8B%A4%20%EC%A1%B0%EA%B8%88%20%EB%8D%94%20%EB%82%98%EC%9D%80%20%ED%99%94%EB%A9%B4%EA%B3%BC%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4.&descSize=16&descAlignY=75)
 
 </div>
 
 <!--
 메모
-1. 코드블록은 GitHub에서 복사 버튼이 붙기 때문에, 관심사/가치 목록은 table + ul 리스트로 변경했습니다.
-2. 하단 문구도 배경이 있는 카드형 table로 정리했습니다.
+1. 하단 문구는 별도 table 박스가 아니라 capsule-render footer 이미지 안에 직접 넣었습니다.
+2. 코드블록은 GitHub에서 복사 버튼이 붙기 때문에, 관심사/가치 목록은 table + ul 리스트로 변경했습니다.
 3. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
 -->
