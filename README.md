@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:256F8F,50:2F80ED,100:4FC08D&height=230&section=header&text=Heo%20Do%20Kyung&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=UI%20Developer%20%7C%20Frontend%20Engineer&descSize=18&descAlignY=57)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&pause=1200&color=256F8F&center=true&vCenter=true&width=820&lines=언제나+UI를+더+쉽게+구현하도록+노력하고+있습니다.;기본을+지키는+UI+개발자가+되고+싶습니다.;오늘보다+조금+더+나은+코드를+고민합니다.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=24&pause=1200&color=256F8F&center=true&vCenter=true&width=820&lines=화면을+조금+더+쉽고+편하게+만들고+싶습니다.;기본을+지키는+UI+개발자가+되고+싶습니다.;오늘보다+조금+더+나은+코드를+고민합니다.)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:gjehrud@gmail.com">
@@ -17,7 +17,7 @@
 
 ---
 
-<table>
+<table width="100%">
   <tr>
     <td width="58%" valign="top">
       <h2>안녕하세요. UI 개발자 허도경입니다.</h2>
@@ -50,7 +50,7 @@
 
 ## 제가 중요하게 생각하는 것
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <ul>
@@ -73,7 +73,7 @@
 
 ## 이런 개발을 좋아합니다
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 사용하기 쉬운 화면</h3>
@@ -106,6 +106,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/BEM-000000?style=flat-square&logo=cssmodules&logoColor=white" alt="BEM" />
   <img src="https://img.shields.io/badge/Web%20Accessibility-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="Web Accessibility" />
   <img src="https://img.shields.io/badge/Responsive%20Web-256F8F?style=flat-square&logo=googlechrome&logoColor=white" alt="Responsive Web" />
 </p>
@@ -116,9 +117,18 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Vue%20Router-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue Router" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=000000" alt="Pinia" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+</p>
+
+### Build & Deploy
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
 </p>
 
 ### Tools
@@ -127,6 +137,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Fork-1F6FEB?style=flat-square&logo=git&logoColor=white" alt="Fork" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
@@ -135,7 +146,7 @@
 
 ## 요즘 관심 있는 것들
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <ul>
@@ -202,7 +213,7 @@ CSS는 어디까지 공통화하는 게 좋을지,
 
 <!--
 메모
-1. 하단 문구는 별도 table 박스가 아니라 capsule-render footer 이미지 안에 직접 넣었습니다.
-2. 코드블록은 GitHub에서 복사 버튼이 붙기 때문에, 관심사/가치 목록은 table + ul 리스트로 변경했습니다.
+1. table이 내용 너비만큼 줄어들지 않도록 주요 table에 width="100%"를 적용했습니다.
+2. TanStack Query는 제거했습니다. 실제로 설명 가능한 기술만 남기는 방향이 좋습니다.
 3. Summary 카드와 Pac-Man contribution graph는 GitHub Actions가 한 번 실행된 뒤부터 정상 표시됩니다.
 -->
